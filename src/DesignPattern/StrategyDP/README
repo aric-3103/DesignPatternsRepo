@@ -1,0 +1,4 @@
+𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐏𝐚𝐭𝐭𝐞𝐫𝐧: When you want to define a family of algorithms, encapsulate each one, and make
+them interchangeable.
+
+Example -> Sorting Algorithms: Swap sorting strategies (quicksort, mergesort) at runtime.

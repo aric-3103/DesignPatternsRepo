@@ -1,0 +1,6 @@
+#𝐅𝐚𝐜𝐭𝐨𝐫𝐲 𝐌𝐞𝐭𝐡𝐨𝐝 𝐏𝐚𝐭𝐭𝐞𝐫𝐧:
+When you want to create objects but leave the exact type to be determined
+by the subclasses.
+
+Example -> Notification Services: Create a factory method to produce notifications
+(email, SMS, push notifications) depending on the audience and content.
